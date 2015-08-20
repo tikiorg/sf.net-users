@@ -226,3 +226,4 @@ omstefanov = omstefanov <omstefanov@users.sourceforge.net>
 papercrane = papercrane <papercrane@users.sourceforge.net> 
 parkercroft = parkercroft <parkercroft@users.sourceforge.net> 
 pascalstjean = pascalstjean <pascalstjean@users.sourceforge.net> 
+patrickallard = patrickallard <patrickallard@users.sourceforge.net> 
