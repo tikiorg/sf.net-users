@@ -101,3 +101,4 @@ garypp = garypp <garypp@users.sourceforge.net>
 gaxweb = gaxweb <gaxweb@users.sourceforge.net> 
 gezzzan = gezzzan <gezzzan@users.sourceforge.net> 
 ggeller = ggeller <ggeller@users.sourceforge.net> 
+gillesm = gillesm <gillesm@users.sourceforge.net> 
