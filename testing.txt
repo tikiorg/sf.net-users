@@ -298,3 +298,4 @@ uiprncss = uiprncss <uiprncss@users.sourceforge.net>
 ursuleacv = ursuleacv <ursuleacv@users.sourceforge.net> 
 uxeric = uxeric <uxeric@users.sourceforge.net> 
 vulgrin = vulgrin <vulgrin@users.sourceforge.net> 
+walper = walper <walper@users.sourceforge.net> 
