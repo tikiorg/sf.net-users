@@ -21,3 +21,4 @@ axold = axold <axold@users.sourceforge.net>
 axonrg = axonrg <axonrg@users.sourceforge.net> 
 bajur = bajur <bajur@users.sourceforge.net> 
 bburgaud = bburgaud <bburgaud@users.sourceforge.net> 
+bergmann = bergmann <bergmann@users.sourceforge.net> 
