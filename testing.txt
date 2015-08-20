@@ -270,3 +270,4 @@ sewilco = sewilco <sewilco@users.sourceforge.net>
 sipherdee = sipherdee <sipherdee@users.sourceforge.net> 
 skinut = skinut <skinut@users.sourceforge.net> 
 slordjette = slordjette <slordjette@users.sourceforge.net> 
+soulhunter = soulhunter <soulhunter@users.sourceforge.net> 
