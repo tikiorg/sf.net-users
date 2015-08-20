@@ -69,3 +69,4 @@ dheltzel = dheltzel <dheltzel@users.sourceforge.net>
 djnz = djnz <djnz@users.sourceforge.net> 
 djpgm = djpgm <djpgm@users.sourceforge.net> 
 docekal = docekal <docekal@users.sourceforge.net> 
+drieschner = drieschner <drieschner@users.sourceforge.net> 
