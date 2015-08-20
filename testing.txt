@@ -150,3 +150,4 @@ jsocol = jsocol <jsocol@users.sourceforge.net>
 juxtagonale = juxtagonale <juxtagonale@users.sourceforge.net> 
 jwigdahl = jwigdahl <jwigdahl@users.sourceforge.net> 
 jyhem = jyhem <jyhem@users.sourceforge.net> 
+Jyhem = Jyhem <Jyhem@users.sourceforge.net> 
