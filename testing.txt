@@ -276,3 +276,4 @@ stojanovim = stojanovim <stojanovim@users.sourceforge.net>
 Stojanovim = Stojanovim <Stojanovim@users.sourceforge.net> 
 swillie = swillie <swillie@users.sourceforge.net> 
 sylvain-a = sylvain-a <sylvain-a@users.sourceforge.net> 
+sylvieg = sylvieg <sylvieg@users.sourceforge.net> 
