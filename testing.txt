@@ -279,3 +279,4 @@ sylvain-a = sylvain-a <sylvain-a@users.sourceforge.net>
 sylvieg = sylvieg <sylvieg@users.sourceforge.net> 
 syracine = syracine <syracine@users.sourceforge.net> 
 techtonik = techtonik <techtonik@users.sourceforge.net> 
+teedog = teedog <teedog@users.sourceforge.net> 
