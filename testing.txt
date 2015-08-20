@@ -19,3 +19,4 @@ awcolley = awcolley <awcolley@users.sourceforge.net>
 awolfff = awolfff <awolfff@users.sourceforge.net> 
 axold = axold <axold@users.sourceforge.net> 
 axonrg = axonrg <axonrg@users.sourceforge.net> 
+bajur = bajur <bajur@users.sourceforge.net> 
