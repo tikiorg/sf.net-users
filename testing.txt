@@ -54,3 +54,4 @@ cr0vax = cr0vax <cr0vax@users.sourceforge.net>
 c_schmitz = c_schmitz <c_schmitz@users.sourceforge.net> 
 cyantree = cyantree <cyantree@users.sourceforge.net> 
 cyberdrek = cyberdrek <cyberdrek@users.sourceforge.net> 
+d0cster = d0cster <d0cster@users.sourceforge.net> 
