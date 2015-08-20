@@ -180,3 +180,4 @@ mangapower = mangapower <mangapower@users.sourceforge.net>
 manivannans = manivannans <manivannans@users.sourceforge.net> 
 marc-etienne = marc-etienne <marc-etienne@users.sourceforge.net> 
 marcius = marcius <marcius@users.sourceforge.net> 
+marclaporte = marclaporte <marclaporte@users.sourceforge.net> 
