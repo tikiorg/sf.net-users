@@ -56,3 +56,4 @@ cyantree = cyantree <cyantree@users.sourceforge.net>
 cyberdrek = cyberdrek <cyberdrek@users.sourceforge.net> 
 d0cster = d0cster <d0cster@users.sourceforge.net> 
 dabright = dabright <dabright@users.sourceforge.net> 
+daevermann = daevermann <daevermann@users.sourceforge.net> 
