@@ -174,3 +174,4 @@ lphuberdeau = lphuberdeau <lphuberdeau@users.sourceforge.net>
 lrargerich = lrargerich <lrargerich@users.sourceforge.net> 
 lrrcenter = lrrcenter <lrrcenter@users.sourceforge.net> 
 luatdo = luatdo <luatdo@users.sourceforge.net> 
+luciash = luciash <luciash@users.sourceforge.net> 
