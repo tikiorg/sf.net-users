@@ -76,3 +76,4 @@ durkin10 = durkin10 <durkin10@users.sourceforge.net>
 egma = egma <egma@users.sourceforge.net> 
 eliasgonzales = eliasgonzales <eliasgonzales@users.sourceforge.net> 
 eoyslebo = eoyslebo <eoyslebo@users.sourceforge.net> 
+epolidor = epolidor <epolidor@users.sourceforge.net> 
