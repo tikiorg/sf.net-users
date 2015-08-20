@@ -233,3 +233,4 @@ paulgv = paulgv <paulgv@users.sourceforge.net>
 philippeback = philippeback <philippeback@users.sourceforge.net> 
 philwhipps = philwhipps <philwhipps@users.sourceforge.net> 
 pingus = pingus <pingus@users.sourceforge.net> 
+pippone = pippone <pippone@users.sourceforge.net> 
