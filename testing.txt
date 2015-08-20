@@ -206,3 +206,4 @@ mose = mose <mose@users.sourceforge.net>
 mrjc = mrjc <mrjc@users.sourceforge.net> 
 mroussel = mroussel <mroussel@users.sourceforge.net> 
 m_stef = m_stef <m_stef@users.sourceforge.net> 
+muscote = muscote <muscote@users.sourceforge.net> 
