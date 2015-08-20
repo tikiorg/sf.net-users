@@ -237,3 +237,4 @@ pippone = pippone <pippone@users.sourceforge.net>
 pjollans = pjollans <pjollans@users.sourceforge.net> 
 pkdille = pkdille <pkdille@users.sourceforge.net> 
 pmichelazzo = pmichelazzo <pmichelazzo@users.sourceforge.net> 
+popovich = popovich <popovich@users.sourceforge.net> 
