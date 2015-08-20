@@ -23,3 +23,4 @@ bajur = bajur <bajur@users.sourceforge.net>
 bburgaud = bburgaud <bburgaud@users.sourceforge.net> 
 bergmann = bergmann <bergmann@users.sourceforge.net> 
 berryweb = berryweb <berryweb@users.sourceforge.net> 
+beuc = beuc <beuc@users.sourceforge.net> 
