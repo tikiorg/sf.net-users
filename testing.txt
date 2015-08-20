@@ -142,3 +142,4 @@ johndparker = johndparker <johndparker@users.sourceforge.net>
 jonnybradley = jonnybradley <jonnybradley@users.sourceforge.net> 
 jorgercosta = jorgercosta <jorgercosta@users.sourceforge.net> 
 josefgc = josefgc <josefgc@users.sourceforge.net> 
+jp_eagle = jp_eagle <jp_eagle@users.sourceforge.net> 
