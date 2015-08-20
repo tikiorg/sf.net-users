@@ -141,3 +141,4 @@ johannesmoser = johannesmoser <johannesmoser@users.sourceforge.net>
 johndparker = johndparker <johndparker@users.sourceforge.net> 
 jonnybradley = jonnybradley <jonnybradley@users.sourceforge.net> 
 jorgercosta = jorgercosta <jorgercosta@users.sourceforge.net> 
+josefgc = josefgc <josefgc@users.sourceforge.net> 
