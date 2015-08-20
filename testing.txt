@@ -90,3 +90,4 @@ florianlink = florianlink <florianlink@users.sourceforge.net>
 fmathias = fmathias <fmathias@users.sourceforge.net> 
 fmg-sf = fmg-sf <fmg-sf@users.sourceforge.net> 
 fmk_ca = fmk_ca <fmk_ca@users.sourceforge.net> 
+franck = franck <franck@users.sourceforge.net> 
