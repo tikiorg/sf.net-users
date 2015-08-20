@@ -273,3 +273,4 @@ slordjette = slordjette <slordjette@users.sourceforge.net>
 soulhunter = soulhunter <soulhunter@users.sourceforge.net> 
 sthibault-php = sthibault-php <sthibault-php@users.sourceforge.net> 
 stojanovim = stojanovim <stojanovim@users.sourceforge.net> 
+Stojanovim = Stojanovim <Stojanovim@users.sourceforge.net> 
