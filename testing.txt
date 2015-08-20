@@ -67,3 +67,4 @@ dexl_2000 = dexl_2000 <dexl_2000@users.sourceforge.net>
 dgdaniels = dgdaniels <dgdaniels@users.sourceforge.net> 
 dheltzel = dheltzel <dheltzel@users.sourceforge.net> 
 djnz = djnz <djnz@users.sourceforge.net> 
+djpgm = djpgm <djpgm@users.sourceforge.net> 
