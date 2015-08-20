@@ -301,3 +301,4 @@ vulgrin = vulgrin <vulgrin@users.sourceforge.net>
 walper = walper <walper@users.sourceforge.net> 
 wesleywillians = wesleywillians <wesleywillians@users.sourceforge.net> 
 wggley = wggley <wggley@users.sourceforge.net> 
+wikiman = wikiman <wikiman@users.sourceforge.net> 
