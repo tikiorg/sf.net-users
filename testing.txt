@@ -234,3 +234,4 @@ philippeback = philippeback <philippeback@users.sourceforge.net>
 philwhipps = philwhipps <philwhipps@users.sourceforge.net> 
 pingus = pingus <pingus@users.sourceforge.net> 
 pippone = pippone <pippone@users.sourceforge.net> 
+pjollans = pjollans <pjollans@users.sourceforge.net> 
