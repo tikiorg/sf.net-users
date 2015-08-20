@@ -50,3 +50,4 @@ citadelrock = citadelrock <citadelrock@users.sourceforge.net>
 coloradoweb = coloradoweb <coloradoweb@users.sourceforge.net> 
 conner_bw = conner_bw <conner_bw@users.sourceforge.net> 
 connermo = connermo <connermo@users.sourceforge.net> 
+cr0vax = cr0vax <cr0vax@users.sourceforge.net> 
