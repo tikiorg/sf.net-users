@@ -123,3 +123,4 @@ ice8878 = ice8878 <ice8878@users.sourceforge.net>
 idou = idou <idou@users.sourceforge.net> 
 illori = illori <illori@users.sourceforge.net> 
 ingesol = ingesol <ingesol@users.sourceforge.net> 
+isotopp = isotopp <isotopp@users.sourceforge.net> 
