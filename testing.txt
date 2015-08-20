@@ -129,3 +129,4 @@ jaw959 = jaw959 <jaw959@users.sourceforge.net>
 jburleyebuilt = jburleyebuilt <jburleyebuilt@users.sourceforge.net> 
 jcyrisse = jcyrisse <jcyrisse@users.sourceforge.net> 
 jdrexler = jdrexler <jdrexler@users.sourceforge.net> 
+jean-lucnavarro = jean-lucnavarro <jean-lucnavarro@users.sourceforge.net> 
