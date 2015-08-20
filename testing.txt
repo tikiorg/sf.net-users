@@ -211,3 +211,4 @@ musus = musus <musus@users.sourceforge.net>
 mystic_ca = mystic_ca <mystic_ca@users.sourceforge.net> 
 nagendra016 = nagendra016 <nagendra016@users.sourceforge.net> 
 nhuffschmid = nhuffschmid <nhuffschmid@users.sourceforge.net> 
+niclone = niclone <niclone@users.sourceforge.net> 
