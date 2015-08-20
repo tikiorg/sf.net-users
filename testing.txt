@@ -133,3 +133,4 @@ jean-lucnavarro = jean-lucnavarro <jean-lucnavarro@users.sourceforge.net>
 jenolan1701 = jenolan1701 <jenolan1701@users.sourceforge.net> 
 jeremy_lee = jeremy_lee <jeremy_lee@users.sourceforge.net> 
 jjolly = jjolly <jjolly@users.sourceforge.net> 
+jkring = jkring <jkring@users.sourceforge.net> 
