@@ -214,3 +214,4 @@ nhuffschmid = nhuffschmid <nhuffschmid@users.sourceforge.net>
 niclone = niclone <niclone@users.sourceforge.net> 
 nikchankov = nikchankov <nikchankov@users.sourceforge.net> 
 nikejam = nikejam <nikejam@users.sourceforge.net> 
+nikhar = nikhar <nikhar@users.sourceforge.net> 
