@@ -46,3 +46,4 @@ chibaguy = chibaguy <chibaguy@users.sourceforge.net>
 chriscramer = chriscramer <chriscramer@users.sourceforge.net> 
 chris_holman = chris_holman <chris_holman@users.sourceforge.net> 
 ch-w = ch-w <ch-w@users.sourceforge.net> 
+citadelrock = citadelrock <citadelrock@users.sourceforge.net> 
