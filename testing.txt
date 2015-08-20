@@ -260,3 +260,4 @@ rook1666 = rook1666 <rook1666@users.sourceforge.net>
 rossta = rossta <rossta@users.sourceforge.net> 
 roysinn = roysinn <roysinn@users.sourceforge.net> 
 russwilde = russwilde <russwilde@users.sourceforge.net> 
+rv540 = rv540 <rv540@users.sourceforge.net> 
