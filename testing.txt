@@ -11,3 +11,4 @@ aneuhaus = aneuhaus <aneuhaus@users.sourceforge.net>
 ang23 = ang23 <ang23@users.sourceforge.net> 
 anope = anope <anope@users.sourceforge.net> 
 aproulx = aproulx <aproulx@users.sourceforge.net> 
+arildb = arildb <arildb@users.sourceforge.net> 
