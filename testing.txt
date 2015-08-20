@@ -248,3 +248,4 @@ redflo = redflo <redflo@users.sourceforge.net>
 reiknir = reiknir <reiknir@users.sourceforge.net> 
 ricks99 = ricks99 <ricks99@users.sourceforge.net> 
 ripero = ripero <ripero@users.sourceforge.net> 
+rischconsulting = rischconsulting <rischconsulting@users.sourceforge.net> 
