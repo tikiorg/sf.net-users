@@ -155,3 +155,4 @@ k2s = k2s <k2s@users.sourceforge.net>
 karneevor = karneevor <karneevor@users.sourceforge.net> 
 kerrnel22 = kerrnel22 <kerrnel22@users.sourceforge.net> 
 killianebel = killianebel <killianebel@users.sourceforge.net> 
+kissaki = kissaki <kissaki@users.sourceforge.net> 
