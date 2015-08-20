@@ -185,3 +185,4 @@ marcmont = marcmont <marcmont@users.sourceforge.net>
 marcoaasilva = marcoaasilva <marcoaasilva@users.sourceforge.net> 
 markitosaad = markitosaad <markitosaad@users.sourceforge.net> 
 markusvk = markusvk <markusvk@users.sourceforge.net> 
+martincomeau = martincomeau <martincomeau@users.sourceforge.net> 
