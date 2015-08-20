@@ -15,3 +15,4 @@ arildb = arildb <arildb@users.sourceforge.net>
 arion92fr = arion92fr <arion92fr@users.sourceforge.net> 
 atooni = atooni <atooni@users.sourceforge.net> 
 aurel42 = aurel42 <aurel42@users.sourceforge.net> 
+awcolley = awcolley <awcolley@users.sourceforge.net> 
