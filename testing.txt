@@ -116,3 +116,4 @@ guideweb = guideweb <guideweb@users.sourceforge.net>
 guidoscherp = guidoscherp <guidoscherp@users.sourceforge.net> 
 gunnarre = gunnarre <gunnarre@users.sourceforge.net> 
 halon = halon <halon@users.sourceforge.net> 
+hangerman = hangerman <hangerman@users.sourceforge.net> 
