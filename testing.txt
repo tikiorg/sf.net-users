@@ -227,3 +227,4 @@ papercrane = papercrane <papercrane@users.sourceforge.net>
 parkercroft = parkercroft <parkercroft@users.sourceforge.net> 
 pascalstjean = pascalstjean <pascalstjean@users.sourceforge.net> 
 patrickallard = patrickallard <patrickallard@users.sourceforge.net> 
+patrick-proulx = patrick-proulx <patrick-proulx@users.sourceforge.net> 
