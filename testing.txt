@@ -121,3 +121,4 @@ hollmeer = hollmeer <hollmeer@users.sourceforge.net>
 hsaelens = hsaelens <hsaelens@users.sourceforge.net> 
 ice8878 = ice8878 <ice8878@users.sourceforge.net> 
 idou = idou <idou@users.sourceforge.net> 
+illori = illori <illori@users.sourceforge.net> 
