@@ -230,3 +230,4 @@ patrickallard = patrickallard <patrickallard@users.sourceforge.net>
 patrick-proulx = patrick-proulx <patrick-proulx@users.sourceforge.net> 
 patvdv = patvdv <patvdv@users.sourceforge.net> 
 paulgv = paulgv <paulgv@users.sourceforge.net> 
+philippeback = philippeback <philippeback@users.sourceforge.net> 
