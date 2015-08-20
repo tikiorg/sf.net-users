@@ -12,3 +12,4 @@ ang23 = ang23 <ang23@users.sourceforge.net>
 anope = anope <anope@users.sourceforge.net> 
 aproulx = aproulx <aproulx@users.sourceforge.net> 
 arildb = arildb <arildb@users.sourceforge.net> 
+arion92fr = arion92fr <arion92fr@users.sourceforge.net> 
