@@ -147,3 +147,4 @@ jpgimenez = jpgimenez <jpgimenez@users.sourceforge.net>
 jreyesg = jreyesg <jreyesg@users.sourceforge.net> 
 jshauk = jshauk <jshauk@users.sourceforge.net> 
 jsocol = jsocol <jsocol@users.sourceforge.net> 
+juxtagonale = juxtagonale <juxtagonale@users.sourceforge.net> 
