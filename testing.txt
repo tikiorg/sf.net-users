@@ -59,3 +59,4 @@ dabright = dabright <dabright@users.sourceforge.net>
 daevermann = daevermann <daevermann@users.sourceforge.net> 
 damienmckenna = damienmckenna <damienmckenna@users.sourceforge.net> 
 damosoft = damosoft <damosoft@users.sourceforge.net> 
+darzee = darzee <darzee@users.sourceforge.net> 
