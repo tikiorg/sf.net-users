@@ -138,3 +138,4 @@ jmaspons = jmaspons <jmaspons@users.sourceforge.net>
 jobicarter = jobicarter <jobicarter@users.sourceforge.net> 
 joeyhartmann = joeyhartmann <joeyhartmann@users.sourceforge.net> 
 johannesmoser = johannesmoser <johannesmoser@users.sourceforge.net> 
+johndparker = johndparker <johndparker@users.sourceforge.net> 
